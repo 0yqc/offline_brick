@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Offline Brick
+Icon=~/offline_brick/icon.png
+Comment=Offline Port of Rebrickable (inofficial)
+Terminal=false
+Type=Application
+Exec=python ~/offline_brick/main.py
